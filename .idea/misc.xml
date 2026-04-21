@@ -11,6 +11,13 @@
         <option value="$PROJECT_DIR$/viewer/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/knowledge/pom.xml" />
+        <option value="$PROJECT_DIR$/rag/pom.xml" />
+        <option value="$PROJECT_DIR$/viewer/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="ms-21" project-jdk-type="JavaSDK" />
 </project>

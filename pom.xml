@@ -17,6 +17,9 @@
 
     <modules>
         <module>gateway</module>
+        <module>services</module>
+        <module>model</module>
+        <module>preview</module>
     </modules>
 
     <properties>
